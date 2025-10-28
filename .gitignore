@@ -1,3 +1,6 @@
 /.venv
-/__pycache__
+# Carpetas de pycache
 /stylometrixTests/*.csv
+todo.md
+*.pyc
+__pycache__/

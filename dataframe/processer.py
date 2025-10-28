@@ -19,3 +19,4 @@ def split_text_into_sentences(textContent):
     print(f"[OK] Total de oraciones: {len(sentences)}")
 
     return sentences
+
