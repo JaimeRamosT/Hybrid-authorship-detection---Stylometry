@@ -1,7 +1,7 @@
 /.venv
 # Carpetas de pycache
-/stylometrixTests/*.csv
+stylometry/dataframeBuild/stylometrixTest/*.csv
 todo.md
 *.pyc
 __pycache__/
-/dataframe/or_train_df.csv
+/stylometry/dataframeBuild/dataframes/*
