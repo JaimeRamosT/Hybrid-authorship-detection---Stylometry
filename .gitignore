@@ -5,3 +5,9 @@ todo.md
 *.pyc
 __pycache__/
 /stylometry/dataframeBuild/dataframes/*
+/stylometry/dim_reduction/*.npz
+dataset/features_combined.parquet
+dataset/features_filtered_balanced.parquet
+dataset/train_df_v1.csv
+stylometry/secRound/trained_models/random_forest/*
+stylometry/trained_models/*
